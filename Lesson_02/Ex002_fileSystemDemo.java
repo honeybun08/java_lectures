@@ -15,4 +15,3 @@ public class Ex002_fileSystemDemo {
         System.out.println(f2.getAbsolutePath());
     }
 }     
-// C:\Users\Lenovo\Desktop\GeekBrains\Java\Lesson_02\log.txt
